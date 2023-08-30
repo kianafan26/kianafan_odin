@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(218, 255, 255);
+}
+#subsection{
+  color: blue;
+  background-color: yellow;
+}
+.main .list{
+  color: red;
+}
+
+.class.second-class{
+  font-size: 100px;
+}
+.class .second-class {
+  font-size: 1000px;
+}
+
+#paren{
+  color: red;
+}
+.child{
+  color: blue;
+}

@@ -1,0 +1,86 @@
+body{
+  background-color: black;
+}
+
+.parent{
+  background-color: rgb(19, 198, 218);
+  margin: 10px auto;
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+  max-width: 800px;
+}
+
+.parent_2{
+  background-color: rgb(14, 175, 234);
+}
+
+h2{
+  margin-left: 10px;
+  margin-bottom: -5px;
+  color: white;
+}
+.ul-1,.ul-2,.ul-3,.ul-4,.ul-5{
+  list-style: none;
+  border: 1px solid white;
+  box-sizing: border-box;
+  margin: 10px;
+}
+.ul-1,
+.ul-2,
+.ul-3,
+.ul-4,
+.ul-5,
+h3{
+  margin: 10px;
+  align-items:"center";
+  justify-content: center;
+  display: flex;
+}
+
+.ul-1 {background-color: red;
+color: indigo;}
+.ul-2 {background-color: orange;
+color: green;}
+.ul-3 {background-color: yellow;
+color:black}
+.ul-4 {background-color: green;
+color: orange;}
+.ul-5 {background-color: indigo;
+color: red;}
+
+br{
+  margin: "50px";
+}
+
+.ol-1,
+.ol-2,
+.ol-3,
+.ol-4,
+.ol-5{
+  list-style: none;
+  border: 1px solid white;
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 5px;
+}
+
+.ol-1,
+.ol-2,
+.ol-3,
+.ol-4,
+.ol-5,
+h2{
+  color: black;
+}
+
+.ol-1 {background-color: red;
+color: indigo;}
+.ol-2 {background-color: orange;
+color: green;}
+.ol-3 {background-color: yellow;
+color:black}
+.ol-4 {background-color: green;
+color: orange;}
+.ol-5 {background-color: indigo;
+color: red;
+margin: 10px 10px 20px 10px;}
